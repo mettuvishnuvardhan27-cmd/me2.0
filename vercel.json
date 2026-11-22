@@ -1,0 +1,6 @@
+{
+  "framework": "vite",
+  "redirects": [
+    { "source": "/contact", "destination": "/#contact", "permanent": false }
+  ]
+}
